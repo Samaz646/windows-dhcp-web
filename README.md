@@ -64,7 +64,7 @@ The following variables must be adjusted in the script to match your environment
 3. Run the application:
 
    ```bash
-   python app.py
+   python windows_dhcp_web.py
    ```
 
 4. Access via browser:
